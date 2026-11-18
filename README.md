@@ -31,13 +31,13 @@ I am a detail-oriented **Higher National Diploma in Information Technology (HNDI
 
 ---
 
-## 🛠️ Technologies & Tools Used in Portfolio
+##  Technologies & Tools Used in Portfolio
 * **Frontend:** HTML5, CSS3, JavaScript (Based on HTML5 UP Dimension Template).
 * **Hosting & Version Control:** GitHub, Netlify
 
 ---
 
-## 📬 Contact Me
+##  Contact Me
 * **Email:** gmaduwanthi833@gmail.com
 * **LinkedIn:** [Gayani Maduwanthi](https://www.linkedin.com/in/p-g-gayani-maduwanthi/)
 * **GitHub:** [GayaniMaduwanthi](https://github.com/GayaniMaduwanthi)
