@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio repository! This responsive, single-page portfolio website showcases my educational background, technical skills, internship experience, and key software development projects.
 
- **Live Website:** [View Live Portfolio](ඔයාගේ_Netlify_Link_එක_මෙතනට_දාන්න)
+ **Live Website:** [View Live Portfolio]https://gayanimaduwanthi.github.io/Gayani-Profolio-/
 
 ---
 
